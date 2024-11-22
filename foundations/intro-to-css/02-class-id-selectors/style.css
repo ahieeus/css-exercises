@@ -1,0 +1,21 @@
+.odd {
+    background-color: rgb(178, 51, 102);
+    color: black;
+    
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#div1 {
+    color: blue;
+    font-size: 40px;
+}
+
+#div2 {
+    font-weight: bold;
+    font-size: 20px;
+    color: black;
+    background-color: green;
+}
