@@ -1,6 +1,10 @@
 .header  {
   font-family: monospace;
   background: papayawhip;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px;
 }
 
 .logo {
@@ -8,6 +12,7 @@
   font-weight: 900;
   color: tomato;
   background: white;
+  padding: 4px 32px;
   padding: 4px 32px;
 }
 
@@ -22,4 +27,13 @@ a {
   padding: 8px;
   /* this removes the line under the links */
   text-decoration: none;
+  color: blue;
+}
+
+ul {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  gap: 8px;
+  
 }
